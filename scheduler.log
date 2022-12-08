@@ -1,0 +1,1523 @@
+
+<pre>Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
+<pre>Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
+<pre>Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
+<pre>Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
+<pre>Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\Models\Invoice Object
+                (
+                    [fillable:protected] => Array
+                        (
+                            [0] => building_id
+                            [1] => wing
+                            [2] => floor
+                            [3] => invoice_number
+                            [4] => office_id
+                            [5] => invoice_type
+                            [6] => invoice_date
+                            [7] => invoice_due_date
+                            [8] => total
+                            [9] => status
+                        )
+
+                    [connection:protected] => mysql
+                    [table:protected] => invoices
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [preventsLazyLoading] => 
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [escapeWhenCastingToString:protected] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [attributeCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
+<pre>Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\Models\Invoice Object
+                (
+                    [fillable:protected] => Array
+                        (
+                            [0] => building_id
+                            [1] => wing
+                            [2] => floor
+                            [3] => invoice_number
+                            [4] => office_id
+                            [5] => invoice_type
+                            [6] => invoice_date
+                            [7] => invoice_due_date
+                            [8] => total
+                            [9] => status
+                        )
+
+                    [connection:protected] => mysql
+                    [table:protected] => invoices
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [preventsLazyLoading] => 
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [escapeWhenCastingToString:protected] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [attributeCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
+<pre>Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\Models\Invoice Object
+                (
+                    [fillable:protected] => Array
+                        (
+                            [0] => building_id
+                            [1] => wing
+                            [2] => floor
+                            [3] => invoice_number
+                            [4] => office_id
+                            [5] => invoice_type
+                            [6] => invoice_date
+                            [7] => invoice_due_date
+                            [8] => total
+                            [9] => status
+                        )
+
+                    [connection:protected] => mysql
+                    [table:protected] => invoices
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [preventsLazyLoading] => 
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [escapeWhenCastingToString:protected] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [attributeCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
+<pre>Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\Models\Invoice Object
+                (
+                    [fillable:protected] => Array
+                        (
+                            [0] => building_id
+                            [1] => wing
+                            [2] => floor
+                            [3] => invoice_number
+                            [4] => office_id
+                            [5] => invoice_type
+                            [6] => invoice_date
+                            [7] => invoice_due_date
+                            [8] => total
+                            [9] => status
+                        )
+
+                    [connection:protected] => mysql
+                    [table:protected] => invoices
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [preventsLazyLoading] => 
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [escapeWhenCastingToString:protected] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [attributeCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
+<pre>Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\Models\Invoice Object
+                (
+                    [fillable:protected] => Array
+                        (
+                            [0] => building_id
+                            [1] => wing
+                            [2] => floor
+                            [3] => invoice_number
+                            [4] => office_id
+                            [5] => invoice_type
+                            [6] => invoice_date
+                            [7] => invoice_due_date
+                            [8] => total
+                            [9] => status
+                        )
+
+                    [connection:protected] => mysql
+                    [table:protected] => invoices
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [preventsLazyLoading] => 
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [escapeWhenCastingToString:protected] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [attributeCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
+<pre>Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\Models\Invoice Object
+                (
+                    [fillable:protected] => Array
+                        (
+                            [0] => building_id
+                            [1] => wing
+                            [2] => floor
+                            [3] => invoice_number
+                            [4] => office_id
+                            [5] => invoice_type
+                            [6] => invoice_date
+                            [7] => invoice_due_date
+                            [8] => total
+                            [9] => status
+                        )
+
+                    [connection:protected] => mysql
+                    [table:protected] => invoices
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [preventsLazyLoading] => 
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [escapeWhenCastingToString:protected] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [attributeCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
+<pre>Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\Models\Invoice Object
+                (
+                    [fillable:protected] => Array
+                        (
+                            [0] => building_id
+                            [1] => wing
+                            [2] => floor
+                            [3] => invoice_number
+                            [4] => office_id
+                            [5] => invoice_type
+                            [6] => invoice_date
+                            [7] => invoice_due_date
+                            [8] => total
+                            [9] => status
+                        )
+
+                    [connection:protected] => mysql
+                    [table:protected] => invoices
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [preventsLazyLoading] => 
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [escapeWhenCastingToString:protected] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [attributeCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
+<pre>Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\Models\Invoice Object
+                (
+                    [fillable:protected] => Array
+                        (
+                            [0] => building_id
+                            [1] => wing
+                            [2] => floor
+                            [3] => invoice_number
+                            [4] => office_id
+                            [5] => invoice_type
+                            [6] => invoice_date
+                            [7] => invoice_due_date
+                            [8] => total
+                            [9] => status
+                        )
+
+                    [connection:protected] => mysql
+                    [table:protected] => invoices
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [preventsLazyLoading] => 
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [escapeWhenCastingToString:protected] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [attributeCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
+<pre>Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\Models\Invoice Object
+                (
+                    [fillable:protected] => Array
+                        (
+                            [0] => building_id
+                            [1] => wing
+                            [2] => floor
+                            [3] => invoice_number
+                            [4] => office_id
+                            [5] => invoice_type
+                            [6] => invoice_date
+                            [7] => invoice_due_date
+                            [8] => total
+                            [9] => status
+                        )
+
+                    [connection:protected] => mysql
+                    [table:protected] => invoices
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [preventsLazyLoading] => 
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [escapeWhenCastingToString:protected] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [attributeCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
+<pre>Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\Models\Invoice Object
+                (
+                    [fillable:protected] => Array
+                        (
+                            [0] => building_id
+                            [1] => wing
+                            [2] => floor
+                            [3] => invoice_number
+                            [4] => office_id
+                            [5] => invoice_type
+                            [6] => invoice_date
+                            [7] => invoice_due_date
+                            [8] => total
+                            [9] => status
+                        )
+
+                    [connection:protected] => mysql
+                    [table:protected] => invoices
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [preventsLazyLoading] => 
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [escapeWhenCastingToString:protected] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 22
+                            [user_id] => 
+                            [invoice_number] => 1
+                            [building_id] => 5
+                            [wing] => A
+                            [floor] => floor 5
+                            [office_id] => 5
+                            [invoice_type] => 1
+                            [invoice_date] => 12-5-2022
+                            [invoice_due_date] => 21-06-2022
+                            [total] => 1000
+                            [status] => pending
+                            [invoice_document] => 
+                            [is_active] => 
+                            [created_at] => 
+                            [updated_at] => 
+                            [invoice_dec] => Service Charge
+                            [bank_name] => ICICI
+                            [holder_name] => Owner
+                            [acc_num] => 9001500006235
+                            [ifsc_code] => ICIC2563
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [classCastCache:protected] => Array
+                        (
+                        )
+
+                    [attributeCastCache:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [timestamps] => 1
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [guarded:protected] => Array
+                        (
+                            [0] => *
+                        )
+
+                )
+
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
